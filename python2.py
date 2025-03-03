@@ -1,2 +1,1 @@
-print("Hello google cloud console")
-print("Shweta")
+print("Learning Computer Science is Good Experience")
